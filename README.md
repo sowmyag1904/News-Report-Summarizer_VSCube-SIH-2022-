@@ -1,9 +1,9 @@
-# VSCube - Press Release Summarizer
+# Press Release Summarizer
 ## A machine learning based summarizer for press releases.</h>
 
 ____
 
-<p> The inbuilt summarizer of the T5 model using the news_summary dataset from kaggle.<br>
+<p> Summaries were generated using the inbuilt summarizer of the T5 model trained on the news_summary dataset from kaggle.<br>
 Flask was used to deploy the model.
 </p>
 
